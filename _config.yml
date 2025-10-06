@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "zyx45889"
+title                    : "movipenkai"
 title_separator          : "-"
-name                     : &name "Yixin Zeng"
-description              : &description "Second year master student in State Key Lab of CAD&CG at Zhejiang University"
-url                      : https://zyx45889.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Pengkai Dou"
+description              : &description "Graduated from Henan University of Technology with a master's degree in computer science in 2025"
+url                      : https://movipenkai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zyx45889/zyx45889.github.io"
+repository               : "movipenkai/movipenkai.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yixin Zeng"
-  avatar           : "profile_yixin.png"
+  name             : "Pengkai Dou"
+  avatar           : "profile_pengkai.jpg"
   avatar_des       : "📷 by Yuqing Zhang"
   bio              : "Second year master student in State Key Lab of CAD&CG at Zhejiang University"
   location         : "Hangzhou, China"
@@ -89,8 +89,8 @@ author:
   bilibili         : 
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=NIRhQyEAAAAJ"
-  email            : "zyx45889@gmail.com"
+  googlescholar    : "https://blog.csdn.net/qq_42212501?type=blog"
+  email            : "d2311028@163.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -99,14 +99,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zyx45889"
+  github           : "movipenkai"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      :
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0009-0006-7783-2683"
+  orcid            : ""
   pinterest        :
   soundcloud       :
   stackoverflow    :
